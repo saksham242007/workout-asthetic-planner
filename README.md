@@ -11,7 +11,7 @@ A simple Python-based application that helps users:
 - OOP-based design
 - Personalized diet recommendations
 - Workout planning
-- Progress tracking
+- Progress tracking  
 
 ## 💻 Tech Used
 - Python
