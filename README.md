@@ -6,7 +6,7 @@ A simple Python-based application that helps users:
 - Generate diet plans
 - Suggest workout routines
 - Track weight progress
-
+  
 ## 🛠 Features
 - OOP-based design  
 - Personalized diet recommendations  
