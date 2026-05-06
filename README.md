@@ -8,7 +8,7 @@ A simple Python-based application that helps users:
 - Track weight progress
   
 ## 🛠 Features 
-- OOP-based design  
+- OOP-based design   
 - Personalized diet recommendations    
 - Workout planning    
 - Progress tracking  
