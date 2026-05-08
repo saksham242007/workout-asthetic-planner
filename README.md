@@ -19,7 +19,7 @@ A simple Python-based application that helps users:
 
 ## 🚀 How to Run
 1. Clone the repo
-2. Run: python main.py
+2. Run: python main.py  
 
 ## 📸 Future Improvements
 - Add GUI (Tkinter)
