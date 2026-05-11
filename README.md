@@ -24,4 +24,4 @@ A simple Python-based application that helps users:
 ## 📸 Future Improvements
 - Add GUI (Tkinter)
 - Add database (SQLite)
-- Convert to web app
+- Convert to web apps
