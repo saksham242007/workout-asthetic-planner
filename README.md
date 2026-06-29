@@ -5,7 +5,7 @@ A simple Python-based application that helps users:
 - Calculate daily calorie needs
 - Generate diet plans
 - Suggest workout routines
-- Track weight progres
+- Track weight progress 
   
 ## 🛠 Features 
 - OOP-based design      
