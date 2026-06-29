@@ -13,7 +13,7 @@ A simple Python-based application that helps users:
 - Workout planning
 - Progress tracking  
 
-## 💻 Tech Used
+## 💻 Tech Used  
 - Python
 - Object-Oriented Programming
 
