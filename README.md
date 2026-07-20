@@ -15,7 +15,7 @@ A simple Python-based application that helps users:
 
 ## 💻 Tech Used  
 - Python
-- Object-Oriented Programming
+- Object-Oriented Programming.
 
 ## 🚀 How to Run
 1. Clone the repo
